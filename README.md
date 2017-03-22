@@ -1,19 +1,23 @@
 # About animal: Bat
 [Here is a link for the source.](https://en.wikipedia.org/wiki/Bat)  
 
-### Important to know
+## Important to know
 
-For adding a line break here we need to add a double space at the end of the previous line.
-Here I didn't add doubes space.  
-Here I added a double space.
+1. Bats are mammals of the order Chiroptera
+2. Bats do not flap their entire forelimbs, as birds do, but instead flap their spread-out digits, which are very long and covered with a thin membrane or patagium.
+3. Bats are the second largest order of mammals.
 
-*This will appear as italicized*
+## They are especially common in
 
-**This will appear as bold**
+- United Kingdom
+- Israel
+- United States
 
-#This is a main header
-##This is a secondary header
-###This is a tertiary header
+![Bat](/images/bat-005.jpg)
+
+
+
+
 
 This is how we list items:
 - one
@@ -26,23 +30,15 @@ And this is how we order items:
 2.  two
 3.  three
 
-Here I show how to [link to Github](https://github.com/)
 
-In case of several links you can use [some link][1] or [another link][2]
-[1]: https://github.com/ "some link"
-[2]: https://desktop.github.com/ "another link"
-
-Creating a table:
-
-col A | col B
+bat species |
+Hebrew name | English name
 -------|--------
-1 | 2
-3 | 4
+עטלפי דבורה | Craseonycteridae
+אשמניים| Emballonuridae
+פוריפטריים | Furipteridae
+ערפדים מדומים | Megadermatidae
+אשפיים | Molossidae
+שפתניים | Mormoopidae
+מיסטציניים | Mystacinidae
 
-To embed an image:
-
-![Image of github's cat](https://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ.png)
-
-Or save the image in “image” directory within your repo and:
-
-![Image of github's cat](/images/github-octocat.png)
