@@ -31,14 +31,15 @@ And this is how we order items:
 3.  three
 
 
-bat species |
-Hebrew name | English name
--------|--------
-עטלפי דבורה | Craseonycteridae
-אשמניים| Emballonuridae
-פוריפטריים | Furipteridae
-ערפדים מדומים | Megadermatidae
-אשפיים | Molossidae
-שפתניים | Mormoopidae
-מיסטציניים | Mystacinidae
+| bat species |
+| ------ | ------ |
+| Hebrew name | English name |
+| ------ | ------ |
+עטלפי דבורה | Craseonycteridae |
+אשמניים| Emballonuridae |
+פוריפטריים | Furipteridae |
+ערפדים מדומים | Megadermatidae |
+אשפיים | Molossidae |
+שפתניים | Mormoopidae |
+מיסטציניים | Mystacinidae |
 
