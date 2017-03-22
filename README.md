@@ -31,8 +31,7 @@ And this is how we order items:
 3.  three
 
 
-| bat species |
-
+### Bat Species:
 
 | Hebrew name | English name |
 | ------ | ------ |
