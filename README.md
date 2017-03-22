@@ -15,22 +15,6 @@
 
 ![Bat](/images/bat-005.jpg)
 
-
-
-
-
-This is how we list items:
-- one
-- two
-- three
-
-And this is how we order items:
-
-1.  one
-2.  two
-3.  three
-
-
 ### Bat Species:
 
 | Hebrew name | English name |
