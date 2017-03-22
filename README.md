@@ -1,5 +1,7 @@
-# The Markdown Language
-Let's learn how to document code with github using the markdown language. 
+# About animal: Bat
+[Here is a link for the source.](https://en.wikipedia.org/wiki/Bat)  
+
+### Important to know
 
 For adding a line break here we need to add a double space at the end of the previous line.
 Here I didn't add doubes space.  
@@ -41,6 +43,6 @@ To embed an image:
 
 ![Image of github's cat](https://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ.png)
 
-Or save the image in ìimageî directory within your repo and:
+Or save the image in ‚Äúimage‚Äù directory within your repo and:
 
 ![Image of github's cat](/images/github-octocat.png)
